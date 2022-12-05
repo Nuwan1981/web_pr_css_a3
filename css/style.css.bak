@@ -1,0 +1,35 @@
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.8);
+  display: block;
+  width: 30%;
+  border-radius: 5px;
+  padding: 5px;
+  margin-left: 10px;
+  position: relative;
+  float: left;
+}
+
+.container {
+  padding: 2px 16px;
+  display: flex;
+  justify-content: space-around;
+  
+}
+
+img {
+  border-radius: 5px 5px 0 0;
+  width: 90%;
+  height:170px;
+}
+
+h3 {
+  position: absolute;
+  top: 0px;
+  right: 10px;
+  color: white;
+  text-shadow: 2px 2px 4px #000000;
+}
+
+body {
+ font-family: Calibri;
+}
